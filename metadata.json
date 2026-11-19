@@ -1,0 +1,6 @@
+{
+  "name": "Sylva Survie — Forêt 3D",
+  "description": "Jeu de survie réaliste en forêt 3D à la troisième personne avec lobby personnalisable, coupe d'arbres, feux de camp et construction de murs en bois.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
